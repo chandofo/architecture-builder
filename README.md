@@ -1,5 +1,8 @@
 # architecture-builder
 Regarding the generation of functional architecture diagrams
+
+https://youtu.be/FbxpN0qgRME
+
 # 功能架构图生成器
 
 一个通用的功能架构图可视化工具，支持 JSON 配置驱动、在线编辑、拖拽调整、导出图片/PPT。
